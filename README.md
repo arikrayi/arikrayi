@@ -6,7 +6,7 @@ Computer Science Student at ITB
 
 I'm a Penultimate Computer Science student from Bandung Institute of Technology who's interested in backend/frontend engineering, security engineering, and operating system. I have a lot of experience in projects from my college and excited to learn new things in software engineering. You can see some of my projects here in my repo :D  
 * 🌍  I'm based in Bandung 
-* ✉️  You can contact me at [arikrayi@gmail.com](mailto:arikrayi@gmail.com) 
+* ✉️  You can contact me at [13520048@std.stei.itb.ac.id](mailto:13520048@std.stei.itb.ac.id) 
 * 🧠  I'm learning frontend development with React & Vue 
 * 🤝  I'm open to collaborating on Web Development and Mobile Development
 
