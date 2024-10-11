@@ -4,7 +4,7 @@ Hi 👋 My name is Arik Rayi Arkananta
 Informatics Student at ITB 
 -------------------------------  
 
-I'm a Informatics student from Institut Teknologi Bandung who's interested in backend/frontend engineering, security engineering, and operating system. I have a lot of experience in projects from my college and excited to learn new things in software engineering. You can see some of my projects here in my repo :D  
+I'm a Fresh Graduate Informatics student from Institut Teknologi Bandung who's interested in backend/frontend engineering, security engineering, and operating system. I have a lot of experience in projects from my college and excited to learn new things in software engineering. You can see some of my projects here in my repo :D  
 * 🌍  I'm based in Bandung 
 * ✉️  You can contact me at [arikrayi@gmail.com](mailto:arikrayi@gmail.com) 
 * 🧠  I'm learning frontend development with React
